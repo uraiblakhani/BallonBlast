@@ -1,2 +1,3 @@
 This is my Note 1
-This file describes level 1
+This Note is about Tutorial Level
+It helps to get familiar with the control of Game Objects.
